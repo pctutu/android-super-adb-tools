@@ -21,10 +21,3 @@ The Android source is located under `app/src/main`. Integrate these files into a
 
 ADB exposes powerful device control. Use network ADB only on a trusted network and disable it when it is no longer needed. The application does not contain or distribute `adb`, `adbd`, a root manager, or third-party binaries.
 
-## References
-
-`ADB_METHODS.md` records external projects and platform documentation used as technical references. Their code is not included in this repository. Review each referenced project's current license before reusing any implementation.
-
-## License
-
-No repository-wide open-source license is declared by this snapshot. Add a license before publishing if you want others to redistribute or modify the source.
